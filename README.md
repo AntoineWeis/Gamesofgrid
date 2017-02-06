@@ -1,2 +1,2 @@
-# Gamesofgrid
-Html/CSS representation of main family from Game of Thrones
+# Games of Grid
+Taste of nice display of the main family from GoT.
